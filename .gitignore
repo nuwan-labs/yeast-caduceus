@@ -1,0 +1,5 @@
+# PDFs
+*.pdf
+
+# Claude Code guidance
+CLAUDE.md
