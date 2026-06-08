@@ -35,7 +35,7 @@ trainable: 2.42M / 178.4M (1.36%)
 
 ## Data
 
-Source: [Shorkie](https://github.com/your-shorkie-ref) GCS bucket (`gs://shorkie-paper/data/`) via GCP project `caduceus-486605`.
+Source: [Shorkie](https://github.com/calico/shorkie-paper) GCS bucket (`gs://shorkie-paper/data/`) via GCP project `caduceus-486605`.
 
 | Dataset | Contents | Size |
 |---|---|---|
@@ -63,5 +63,5 @@ Key version pins: `torch==2.3.1+cu121`, `mamba-ssm==2.2.2`, `causal-conv1d==1.4.
 
 ## Reference
 
-Built on the [Shorkie](https://github.com/your-shorkie-ref) and [PlantCAD2](https://huggingface.co/kuleshov-group) frameworks.
+Built on the [Shorkie](https://github.com/calico/shorkie-paper) and [PlantCAD2](https://github.com/kuleshov-group/PlantCaduceus) frameworks.
 SLIBTEC · 2026
